@@ -93,3 +93,13 @@ if response == "y":
     print()
 
 # TODO: Run with different responses n, y, other...
+
+if response == "n":
+    print()
+    print("Good bye!!! Have a good rest of your day!!!")  
+
+
+if response == "":
+    print()
+    print("Good bye!!! Have a good rest of your day!!!")  
+ 
