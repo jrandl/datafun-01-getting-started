@@ -1,7 +1,7 @@
 """
 Purpose: Get acquainted with basic Python concepts.
 
-Author: Denise Case
+Author: Josiah Randleman
 
 This file name is:   acquainted.py
 This module name is: acquainted

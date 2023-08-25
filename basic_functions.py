@@ -1,7 +1,7 @@
 """
 Purpose: Illustrate basic functions in Python.
 
-Author: Denise Case
+Author: Josiah Randleman
 
 This file name is:   basic_functions.py
 This module name is: basic_functions

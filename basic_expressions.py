@@ -1,7 +1,7 @@
 """
 Purpose: Illustrate basic expressions and operators in Python.
 
-Author: Denise Case
+Author: Josiah Randleman
 
 This file name is:   basic_expressions.py
 This module name is: basic_expressions

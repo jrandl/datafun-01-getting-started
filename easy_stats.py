@@ -1,5 +1,5 @@
 """
-
+Author: Josiah Randleman
 Purpose: Illustrate the built-in statistics module.
 
 VS Code Menu / View / Command Palette / Python Interpreter
